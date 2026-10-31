@@ -33,7 +33,7 @@ Everything is in `index.html`:
 
 | What | Where |
 |---|---|
-| Phone, WhatsApp, e-mail, address | search for `7888713684`, `saabisodhi626@gmail.com`, `Village Varpal` |
+| Phone, WhatsApp, e-mail, address | search for|
 | Text in the 5 languages | the `D` object near the bottom (`s1`…`s11` are the services) |
 | Helper bot answers | the `B` object (replies), `DOC` and `SD` (documents per service) in the "HELPER BOT" script |
 | Opening hours | the `stat()` function (`h>=10&&h<20`) and the bot's `hours` text |
